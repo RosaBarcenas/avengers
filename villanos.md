@@ -1,4 +1,5 @@
 # Villanos
  
  *Dr. Doom
- *Nuevo Villano
+ *Red Skull
+ *Dr. New
